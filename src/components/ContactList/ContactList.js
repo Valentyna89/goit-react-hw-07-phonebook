@@ -11,6 +11,7 @@ const ContactList = () => {
   const onDeleteContacts = async contactId => {
     await dispatch(removeContact(contactId));
     dispatch(fetchContacts());
+    alert('The contact has been deleted');
   };
 
   return (
