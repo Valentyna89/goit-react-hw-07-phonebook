@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-07-phonebook/static/css/main.8ded68c5.css",
-    "main.js": "/goit-react-hw-07-phonebook/static/js/main.2c4c1599.js",
-    "static/media/top-view-desk-with-coffee-plant-laptop.jpg": "/goit-react-hw-07-phonebook/static/media/top-view-desk-with-coffee-plant-laptop.287785ed775533f88b56.jpg",
+    "main.css": "/goit-react-hw-07-phonebook/static/css/main.ba2b2d99.css",
+    "main.js": "/goit-react-hw-07-phonebook/static/js/main.ed5f02d9.js",
     "index.html": "/goit-react-hw-07-phonebook/index.html",
-    "main.8ded68c5.css.map": "/goit-react-hw-07-phonebook/static/css/main.8ded68c5.css.map",
-    "main.2c4c1599.js.map": "/goit-react-hw-07-phonebook/static/js/main.2c4c1599.js.map"
+    "main.ba2b2d99.css.map": "/goit-react-hw-07-phonebook/static/css/main.ba2b2d99.css.map",
+    "main.ed5f02d9.js.map": "/goit-react-hw-07-phonebook/static/js/main.ed5f02d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ded68c5.css",
-    "static/js/main.2c4c1599.js"
+    "static/css/main.ba2b2d99.css",
+    "static/js/main.ed5f02d9.js"
   ]
 }
